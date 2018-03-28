@@ -6,3 +6,7 @@
 completed till https://www.freecodecamp.org/challenges/nest-an-anchor-element-within-a-paragraph
 
 **Thoughts:** I think i will touch base on lot of things that i learnt during my college education in computer science.I am looking forward to stay committed for next 100 days. Thanks to #100DaysOfCode. Happy :)
+
+### Day 2: March 28, 2018 ####
+**Today's Progress**: Learnt about some more html tags. Happy with the progress.
+completed till https://www.freecodecamp.org/challenges/create-a-set-of-checkboxes
