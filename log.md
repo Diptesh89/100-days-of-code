@@ -10,3 +10,7 @@ completed till https://www.freecodecamp.org/challenges/nest-an-anchor-element-wi
 ### Day 2: March 28, 2018 ####
 **Today's Progress**: Learnt about some more html tags. Happy with the progress.
 completed till https://www.freecodecamp.org/challenges/create-a-set-of-checkboxes
+
+### Day 3: March 29, 2018 ####
+**Today's Progress**: Learnt about margins,paddin,elements. Happy with the progress.
+completed till https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element
