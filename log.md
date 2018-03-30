@@ -14,3 +14,8 @@ completed till https://www.freecodecamp.org/challenges/create-a-set-of-checkboxe
 ### Day 3: March 29, 2018 ####
 **Today's Progress**: Learnt about margins,paddin,elements. Happy with the progress.
 completed till https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element
+
+### Day 4: March 30, 2018 ####
+**Today's Progress**: Created a simple page using HTML and CSS on codepen.io
+
+**Link to Work:** [MyFirstWork](https://codepen.io/DGeek/pen/yKKjPq)
