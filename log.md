@@ -21,4 +21,5 @@ completed till https://www.freecodecamp.org/challenges/use-clockwise-notation-to
 **Link to Work:** [MyFirstWork](https://codepen.io/DGeek/pen/yKKjPq)
 
 ### Day 4: March 30, 2018 ####
-**Today's Progress**: Completed the HTML5 and CSS on freecodecamp. I will skip bootstrapfor now and comback later. Next is Javascript
+**Today's Progress**: Completed the HTML5 and CSS on freecodecamp. I will skip bootstrap for now and comback later. Next is Javascript
+                      
