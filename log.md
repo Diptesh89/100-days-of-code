@@ -19,3 +19,6 @@ completed till https://www.freecodecamp.org/challenges/use-clockwise-notation-to
 **Today's Progress**: Created a simple page using HTML and CSS on codepen.io
 
 **Link to Work:** [MyFirstWork](https://codepen.io/DGeek/pen/yKKjPq)
+
+### Day 4: March 30, 2018 ####
+**Today's Progress**: Completed the HTML5 and CSS on freecodecamp. I will skip bootstrapfor now and comback later. Next is Javascript
