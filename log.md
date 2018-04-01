@@ -24,4 +24,5 @@ completed till https://www.freecodecamp.org/challenges/use-clockwise-notation-to
 **Today's Progress**: Completed the HTML5 and CSS on freecodecamp. I will skip bootstrap for now and comback later. Next is Javascript
                       
 ### Day 6: April 1, 2018 ####
-**Today's Progress**: Started with the basics of JavaSript on freecodecamp. Variables, operators, datatypes. Lots of learning to be done.
+**Today's Progress**: Started with the basics of JavaSript on freecodecamp. Variables, operators, datatypes. A lot of learning to be done.
+completed till https://www.freecodecamp.org/challenges/concatenating-strings-with-the-plus-equals-operator
