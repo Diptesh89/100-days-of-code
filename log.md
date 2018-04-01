@@ -20,6 +20,8 @@ completed till https://www.freecodecamp.org/challenges/use-clockwise-notation-to
 
 **Link to Work:** [MyFirstWork](https://codepen.io/DGeek/pen/yKKjPq)
 
-### Day 4: March 30, 2018 ####
+### Day 5: March 31, 2018 ####
 **Today's Progress**: Completed the HTML5 and CSS on freecodecamp. I will skip bootstrap for now and comback later. Next is Javascript
                       
+### Day 6: April 1, 2018 ####
+**Today's Progress**: Started with the basics of JavaSript on freecodecamp. Variables, operators, datatypes. Lots of learning to be done.
