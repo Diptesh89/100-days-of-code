@@ -26,3 +26,8 @@ completed till https://www.freecodecamp.org/challenges/use-clockwise-notation-to
 ### Day 6: April 1, 2018 ####
 **Today's Progress**: Started with the basics of JavaSript on freecodecamp. Variables, operators, datatypes. A lot of learning to be done.
 completed till https://www.freecodecamp.org/challenges/concatenating-strings-with-the-plus-equals-operator
+
+
+### Day 7: April 2, 2018 ####
+**Today's Progress**: Played with arrays and functions in JS.
+completed till https://www.freecodecamp.org/challenges/return-a-value-from-a-function-with-return
