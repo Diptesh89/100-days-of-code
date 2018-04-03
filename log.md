@@ -31,3 +31,7 @@ completed till https://www.freecodecamp.org/challenges/concatenating-strings-wit
 ### Day 7: April 2, 2018 ####
 **Today's Progress**: Played with arrays and functions in JS.
 completed till https://www.freecodecamp.org/challenges/return-a-value-from-a-function-with-return
+
+### Day 8: April 3, 2018 ####
+**Today's Progress**: More challenges and learning on JS.
+completed till https://www.freecodecamp.org/challenges/golf-code
