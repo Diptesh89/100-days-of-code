@@ -35,3 +35,9 @@ completed till https://www.freecodecamp.org/challenges/return-a-value-from-a-fun
 ### Day 8: April 3, 2018 ####
 **Today's Progress**: More challenges and learning on JS.
 completed till https://www.freecodecamp.org/challenges/golf-code
+
+### Day 9: April 4, 2018 ####
+**Today's Progress**: More challenges and learning on JS. A little progress today
+completed till https://www.freecodecamp.org/challenges/return-early-pattern-for-functions
+
+
