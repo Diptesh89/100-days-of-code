@@ -40,4 +40,6 @@ completed till https://www.freecodecamp.org/challenges/golf-code
 **Today's Progress**: More challenges and learning on JS. A little progress today
 completed till https://www.freecodecamp.org/challenges/return-early-pattern-for-functions
 
-
+### Day 10: April 5, 2018 ####
+**Today's Progress**: Completed the challenges on JS objects and started with loops.
+completed till https://www.freecodecamp.org/challenges/iterate-through-an-array-with-a-for-loops
