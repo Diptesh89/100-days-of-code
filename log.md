@@ -43,3 +43,8 @@ completed till https://www.freecodecamp.org/challenges/return-early-pattern-for-
 ### Day 10: April 5, 2018 ####
 **Today's Progress**: Completed the challenges on JS objects and started with loops.
 completed till https://www.freecodecamp.org/challenges/iterate-through-an-array-with-a-for-loops
+
+### Day 11: April 6, 2018 ####
+**Today's Progress**: Completed the JS basics module on freecodecamp and started with Object Oriented Programming.
+completed till https://www.freecodecamp.org/challenges/make-unique-objects-by-passing-parameters-to-our-constructor
+
