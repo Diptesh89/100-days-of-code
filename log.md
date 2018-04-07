@@ -48,3 +48,8 @@ completed till https://www.freecodecamp.org/challenges/iterate-through-an-array-
 **Today's Progress**: Completed the JS basics module on freecodecamp and started with Object Oriented Programming.
 completed till https://www.freecodecamp.org/challenges/make-unique-objects-by-passing-parameters-to-our-constructor
 
+
+### Day 12: April 7, 2018 ####
+**Today's Progress**: Completed the with Object Oriented Programming module on free code camp.
+completed till https://www.freecodecamp.org/challenges/reverse-a-string
+
