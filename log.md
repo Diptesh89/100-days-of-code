@@ -50,6 +50,9 @@ completed till https://www.freecodecamp.org/challenges/make-unique-objects-by-pa
 
 
 ### Day 12: April 7, 2018 ####
-**Today's Progress**: Completed the with Object Oriented Programming module on free code camp.
+**Today's Progress**: Completed the Object Oriented Programming module on free code camp.
 completed till https://www.freecodecamp.org/challenges/reverse-a-string
 
+### Day 13: April 8, 2018 ####
+**Today's Progress**: Completed the few more algorithms on free code camp.
+completed till https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string
