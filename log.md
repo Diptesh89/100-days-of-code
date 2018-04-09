@@ -56,3 +56,8 @@ completed till https://www.freecodecamp.org/challenges/reverse-a-string
 ### Day 13: April 8, 2018 ####
 **Today's Progress**: Completed the few more algorithms on free code camp.
 completed till https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string
+
+
+### Day 14: April 9, 2018 ####
+**Today's Progress**: Completed the few more basic algorithms on free code camp. This is really testing my thinking skills.
+completed till https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string
