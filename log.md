@@ -61,3 +61,8 @@ completed till https://www.freecodecamp.org/challenges/find-the-longest-word-in-
 ### Day 14: April 9, 2018 ####
 **Today's Progress**: Completed the few more basic algorithms on free code camp. This is really testing my thinking skills.
 completed till https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string
+
+
+### Day 15: April 10, 2018 ####
+**Today's Progress**: Completed the few more basic algorithms on free code camp.
+completed till https://www.freecodecamp.org/challenges/chunky-monkey
