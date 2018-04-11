@@ -66,3 +66,8 @@ completed till https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-
 ### Day 15: April 10, 2018 ####
 **Today's Progress**: Completed the few more basic algorithms on free code camp.
 completed till https://www.freecodecamp.org/challenges/chunky-monkey
+
+
+### Day 16: April 11, 2018 ####
+**Today's Progress**: Completed the one more basic algorithms on free code camp.
+completed till https://www.freecodecamp.org/challenges/mutations
