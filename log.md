@@ -69,5 +69,10 @@ completed till https://www.freecodecamp.org/challenges/chunky-monkey
 
 
 ### Day 16: April 11, 2018 ####
-**Today's Progress**: Completed the one more basic algorithms on free code camp.
+**Today's Progress**: Completed the one more basic algorithm on free code camp.
 completed till https://www.freecodecamp.org/challenges/mutations
+
+
+### Day 17: April 12, 2018 ####
+**Today's Progress**: Completed the one more basic algorithm on free code camp.
+completed till https://www.freecodecamp.org/challenges/falsy-bouncer
