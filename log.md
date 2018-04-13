@@ -76,3 +76,7 @@ completed till https://www.freecodecamp.org/challenges/mutations
 ### Day 17: April 12, 2018 ####
 **Today's Progress**: Completed the one more basic algorithm on free code camp.
 completed till https://www.freecodecamp.org/challenges/falsy-bouncer
+
+### Day 18: April 13, 2018 ####
+**Today's Progress**: I went through some basic SQL concepts to refresh my knowledge on SQL
+
