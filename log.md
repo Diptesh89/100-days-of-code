@@ -80,3 +80,7 @@ completed till https://www.freecodecamp.org/challenges/falsy-bouncer
 ### Day 18: April 13, 2018 ####
 **Today's Progress**: I went through some basic SQL concepts to refresh my knowledge on SQL
 
+
+### Day 19: April 13, 2018 ####
+**Today's Progress**: Completed the basic algorithm scripting module on free code camp.
+
