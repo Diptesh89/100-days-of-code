@@ -81,6 +81,9 @@ completed till https://www.freecodecamp.org/challenges/falsy-bouncer
 **Today's Progress**: I went through some basic SQL concepts to refresh my knowledge on SQL
 
 
-### Day 19: April 13, 2018 ####
+### Day 19: April 14, 2018 ####
 **Today's Progress**: Completed the basic algorithm scripting module on free code camp.
 
+
+### Day 20: April 15, 2018 ####
+**Today's Progress**: Completed the JSON APIs and AJAX module on free code camp.
