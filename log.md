@@ -86,4 +86,4 @@ completed till https://www.freecodecamp.org/challenges/falsy-bouncer
 
 
 ### Day 20: April 15, 2018 ####
-**Today's Progress**: Completed the JSON APIs and AJAX module on free code camp.
+**Today's Progress**: Completed the JSON APIs and AJAX module on free code camp. I will be visiting back the module on bootstrap to complete my projects on Tribute page and personal portfolio
