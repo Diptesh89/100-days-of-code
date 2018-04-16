@@ -87,3 +87,8 @@ completed till https://www.freecodecamp.org/challenges/falsy-bouncer
 
 ### Day 20: April 15, 2018 ####
 **Today's Progress**: Completed the JSON APIs and AJAX module on free code camp. I will be visiting back the module on bootstrap to complete my projects on Tribute page and personal portfolio
+
+
+### Day 21: April 16, 2018 ####
+**Today's Progress**: Started with bootstrap module on free code camp.
+completed till: https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side
