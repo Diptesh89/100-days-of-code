@@ -92,3 +92,7 @@ completed till https://www.freecodecamp.org/challenges/falsy-bouncer
 ### Day 21: April 16, 2018 ####
 **Today's Progress**: Started with bootstrap module on free code camp.
 completed till: https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side
+
+
+### Day 22: April 17, 2018 #### 
+**Today's Progress**: Completed the bootstrap module on free code camp. Next up is Jquery.
