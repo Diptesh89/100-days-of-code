@@ -96,3 +96,6 @@ completed till: https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-t
 
 ### Day 22: April 17, 2018 #### 
 **Today's Progress**: Completed the bootstrap module on free code camp. Next up is Jquery.
+
+### Day 23: April 18, 2018 #### 
+**Today's Progress**: Started with JQuery on free code camp
